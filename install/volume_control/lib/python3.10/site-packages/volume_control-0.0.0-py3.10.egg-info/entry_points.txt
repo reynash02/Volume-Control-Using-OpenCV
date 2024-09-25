@@ -1,0 +1,3 @@
+[console_scripts]
+volume_control_node = volume_control.volume_control_node:main
+

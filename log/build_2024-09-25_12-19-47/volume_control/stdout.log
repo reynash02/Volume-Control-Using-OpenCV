@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/volume_control/volume_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/volume_control/volume_control.egg-info/dependency_links.txt
+writing entry points to ../../build/volume_control/volume_control.egg-info/entry_points.txt
+writing requirements to ../../build/volume_control/volume_control.egg-info/requires.txt
+writing top-level names to ../../build/volume_control/volume_control.egg-info/top_level.txt
+reading manifest file '../../build/volume_control/volume_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/volume_control/volume_control.egg-info/SOURCES.txt'
+running build
+running build_py
+copying volume_control/volume_control_node.py -> /home/reynash/volume_control/build/volume_control/build/lib/volume_control
+running install
+running install_lib
+copying /home/reynash/volume_control/build/volume_control/build/lib/volume_control/volume_control_node.py -> /home/reynash/volume_control/install/volume_control/lib/python3.10/site-packages/volume_control
+byte-compiling /home/reynash/volume_control/install/volume_control/lib/python3.10/site-packages/volume_control/volume_control_node.py to volume_control_node.cpython-310.pyc
+running install_data
+copying package.xml -> /home/reynash/volume_control/install/volume_control/share/volume_control
+running install_egg_info
+removing '/home/reynash/volume_control/install/volume_control/lib/python3.10/site-packages/volume_control-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/volume_control/volume_control.egg-info to /home/reynash/volume_control/install/volume_control/lib/python3.10/site-packages/volume_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing volume_control_node script to /home/reynash/volume_control/install/volume_control/lib/volume_control
+writing list of installed files to '/home/reynash/volume_control/build/volume_control/install.log'
